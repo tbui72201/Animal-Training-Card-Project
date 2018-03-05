@@ -1,0 +1,43 @@
+/* add CSS here */
+#framework {
+    border: 10px solid Gray;
+    background-color: darkgray;
+    width: 300px;    
+    padding: 10px;
+    box-shadow: 2px 2px 15px 1px;
+}
+#background {
+    background-color: lightblue;
+    border: 1px solid gray;
+    width: 280px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+}
+/* Adding image border by set it to 1 solid*/
+img {
+    border: 1 solid;
+    height: 200px;
+    width: 300px;
+    border-radius: 5px;
+}
+span {
+    font-weight: bold;
+    font-size: 1em;
+}
+.interesting {
+    font-style: italic;
+}
+.empasize {
+    font-style: italic;
+}
+p {
+    font-size: 0.7em;
+}
+li {
+    font-size: 0.8em;
+    list-style-type: none;
+}
